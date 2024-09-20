@@ -1,2 +1,2 @@
-# Excel-Project
+# Excel Project
 Walmart Dynamic Dashboard 2
